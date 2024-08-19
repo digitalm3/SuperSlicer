@@ -1,0 +1,11 @@
+# ignore folders
+cache/
+shapes/
+sla_material/
+sla_print/
+ui_layout/
+vendor/
+
+# ignore files
+.DS_Store
+
